@@ -1,6 +1,7 @@
 # image_cup
 
-> A Vue.js project
+> This project is for 2019 Image Cup
+>Commodity traceability system based on blockchain
 
 ## Build Setup
 
